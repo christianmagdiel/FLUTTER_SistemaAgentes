@@ -25,7 +25,6 @@ dependencies:
   cupertino_icons: ^0.1.2
   rxdart: 
   http:
-  shared_preferences:
   sweetalert:
   intl: ^0.15.8
   flutter_speed_dial: ^1.2.4
